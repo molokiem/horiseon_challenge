@@ -14,6 +14,8 @@ Given only the Starting Code:
 
 Purpose was to clean up code and make it meet accessibility standards.
 
+Deployed URL: https://molokiem.github.io/horiseon_challenge/
+
 ## Installation
 
 N/A
