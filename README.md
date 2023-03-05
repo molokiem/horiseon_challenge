@@ -1,12 +1,18 @@
 # Horison Webpage
 ## A webpage for a marketing company.
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+## Description
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Given only the Starting Code:
+
+- Create a new repository
+- Clone the code into my own repository
+- Change HTML code with sematic elements
+- Add code to meet accessibily standards
+- add comments to index.html and style.css
+- Deploy the project
+
+Purpose was to clean up code and make it meet accessibility standards.
 
 ## Installation
 
@@ -14,7 +20,7 @@ N/A
 
 ## Usage
 
-The webpage contains information on different services they provide for clients, including Search Engine Optimization, Online Reputation Management, and Social Media Marketing. It also contains the positive impacts that those services contribute to. Each service is separated in their own section, separated from the positive impacts in the side bar.
+The webpage's purpose is for potential clients to view and gain information about the Horizeon company. The page contains information on different services they provide, including Search Engine Optimization, Online Reputation Management, and Social Media Marketing. It also contains the positive impacts that those services contribute to. Each service is separated in their own section, separated from the positive impacts in the side bar.
 
 ## Credits
 
